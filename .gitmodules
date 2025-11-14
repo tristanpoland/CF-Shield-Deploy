@@ -1,0 +1,9 @@
+[submodule "shield-boshrelease"]
+	path = shield-boshrelease
+	url = https://github.com/shieldproject/shield-boshrelease
+[submodule "shield-genesis-kit"]
+	path = shield-genesis-kit
+	url = https://github.com/genesis-community/shield-genesis-kit
+[submodule "shield"]
+	path = shield
+	url = https://github.com/shieldproject/shield
