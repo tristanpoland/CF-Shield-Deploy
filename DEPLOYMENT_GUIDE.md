@@ -432,8 +432,6 @@ echo "Access SHIELD at: https://$(genesis lookup $DEPLOYMENT params.shield_stati
 
 ## Additional Resources
 
-- **SHIELD Documentation**: https://shieldproject.io/docs/
-- **Genesis Documentation**: https://genesis-community.github.io/
 - **BOSH Documentation**: https://bosh.io/docs/
 - **SHIELD GitHub**: https://github.com/shieldproject/shield
 - **Genesis Kit Development**: https://github.com/genesis-community/shield-genesis-kit
